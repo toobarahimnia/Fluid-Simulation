@@ -1,0 +1,41 @@
+python==3.10.4
+numpy==1.22.4
+torch==2.0.1
+torchvision==0.15.2
+matplotlib==3.7.1
+pillow==8.4.0
+scipy==1.10.1
+tqdm==4.65.0 
+sklearn==0.0
+tk==0.1.0
+opencv-python==4.7.0.72
+torchdiffeq==0.2.3
+CUDA==11.7
+# astroid==2.4.2   (done)
+# blessings==1.7   (done)
+# certifi==2020.6.20   (done)
+# cycler==0.10.0   (done)
+# imgcat==0.5.0    (done)
+# isort==5.5.3     (done)
+# joblib==1.0.0    (done)
+# kiwisolver==1.2.0    (done)
+# lazy-object-proxy==1.4.3     (done)
+# mccabe==0.6.1  (done)
+# nvidia-ml-py3==7.352.0   (done)
+# Pillow==7.2.0  (done)
+# ptflops==0.6.4 (done)
+# pyaml==20.4.0  (done)
+# pyevtk==1.1.1  (done)
+# pylint==2.6.0  (done)
+# pyparsing==2.4.7   (done)
+# python-dateutil==2.8.1   (done)
+# PyYAML==5.3.1  (done)
+# scikit-learn==0.23.2   (done)
+# six==1.15.0    (done)
+# termcolor==1.1.0  (done)
+# threadpoolctl==2.1.0  (done)
+# toml==0.10.1   (done)
+# typed-ast==1.4.1   (done)
+# wrapt==1.12.1  (done)
+# swig==4.1.1   (done)
+# ipython==7.34.0  (done)
